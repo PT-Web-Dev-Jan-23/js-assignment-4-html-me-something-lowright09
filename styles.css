@@ -1,1 +1,21 @@
-/* Write your CSS here! */
+body {
+    margin-right: 8px
+    padding-top: 80px;
+  padding-right: 80px;
+  padding-bottom: 80px;
+  padding-left: 80px;
+  background-color:lightpink;
+}
+
+#mainHeading {
+    color:red;
+}
+
+#testP.funParagraph {
+  color:green;
+}
+
+a:link{
+  text-decoration: underline;
+}
+
